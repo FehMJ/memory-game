@@ -48,6 +48,7 @@
 
 .login_button:disabled {
     background-color: #eee;
+    border: 2px solid #969595;
     color: #aaa;
     cursor: auto;
 }
